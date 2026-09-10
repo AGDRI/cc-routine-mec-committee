@@ -6,10 +6,10 @@
   ],
   "targetRoundsPerCycle": 5,
   "targetCycles": 5,
-  "currentCycle": 3,
+  "currentCycle": 4,
   "cadence": "2時間ごと",
   "createdAt": "2026-09-10T05:40:00Z",
-  "updatedAt": "2026-09-10T06:57:02Z",
+  "updatedAt": "2026-09-10T08:56:18Z",
   "team": [
     {"key": "watanabe", "name": "渡辺 康平", "role": "代表取締役CEO", "age": 50, "background": "慶應義塾大学卒", "mbti": "ENFJ"},
     {"key": "suda", "name": "酢田 浩一", "role": "CFO", "age": 40, "background": "高卒（叩き上げ）", "mbti": "ISTJ"},

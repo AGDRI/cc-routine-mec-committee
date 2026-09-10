@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash",
+      "Read",
+      "Write",
+      "Edit",
+      "Bash(git *)",
       "WebSearch",
       "WebFetch"
     ]

@@ -7,7 +7,7 @@
     {"code": "4971", "name": "MEC COMPANY LTD.", "note": "半導体パッケージ基板向け薬品（密着向上剤・マイクロエッチング剤）"}
   ],
   "targetRoundsPerCycle": 5,
-  "targetCycles": 10,
+  "targetCycles": 20,
   "currentCycle": 10,
   "cadence": "2時間ごと",
   "createdAt": "2026-09-10T05:40:00Z",
